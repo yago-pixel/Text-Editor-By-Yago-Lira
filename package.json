@@ -1,0 +1,23 @@
+{
+  "name": "text-editor-by-yago-lira",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yago-pixel/Text-Editor-By-Yago-Lira.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yago-pixel/Text-Editor-By-Yago-Lira/issues"
+  },
+  "homepage": "https://github.com/yago-pixel/Text-Editor-By-Yago-Lira#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
